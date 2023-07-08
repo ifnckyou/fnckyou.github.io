@@ -1,1 +1,1 @@
-# fnckyou.github.io
+hello world!
